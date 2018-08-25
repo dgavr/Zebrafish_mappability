@@ -23,10 +23,12 @@ http://userweb.molbiol.ox.ac.uk/public/dariag/mappability/hub_qd_zv10.txt
 http://userweb.molbiol.ox.ac.uk/public/dariag/mappability/hub_gem_zv10.txt
 ```
 
-This resource was generated as part of the FoxD3 project carried 
-out in the laboratory of T. Sauka-Spengler at the Weatherall 
-Institute of Molecular Medicine at the University of Oxford, 
-in the UK. See [tsslab github repository for additional information](https://github.com/tsslab/foxd3).  
+This resource was generated as part of the FoxD3 project carried out in the laboratory of T. Sauka-Spengler at the Weatherall Institute of Molecular Medicine at the University of Oxford, 
+in the UK. 
+
+Preliminary manuscript for this project is available on bioRxiv: https://www.biorxiv.org/content/biorxiv/early/2017/11/22/213611.full.pdf
+
+For additional information on project please see [tsslab/foxd3](https://github.com/tsslab/foxd3) github repository.  
 
 #### Approach I: Mapping-based alignability 
 
